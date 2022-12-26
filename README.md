@@ -2,6 +2,11 @@
 makes [ORPHE-CORE.js](https://orphe-oss.github.io/ORPHE-CORE.js/) enable to use OSC communication with Electron.
 
 ## Getting Started
+
+If you do not have installed node.js, please install node.js at first for npm command.
+  * [node.js](https://nodejs.org/)
+
+If you have already installed node.js, please follow the below steps.
 ```
   > npm install electron
   > npm install osc-js
