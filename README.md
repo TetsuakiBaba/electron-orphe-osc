@@ -10,8 +10,13 @@ makes [ORPHE-CORE.js](https://orphe-oss.github.io/ORPHE-CORE.js/) enable to use 
 have a fun!
 
 ## Tutorial Video (Japanense)
+<a href="https://www.loom.com/share/1b99d844b1404d5ab1777740e8243e95">
+    <p>TetsuakiBaba/electron-orphe-osc - 26 December 2022 - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1b99d844b1404d5ab1777740e8243e95-with-play.gif">
+  </a>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/1b99d844b1404d5ab1777740e8243e95" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+### Reference
+  * [Protokol](https://hexler.net/protokol) for an OSC Monitoring tool.
 
 ## Requirements
   * [electron](https://www.electronjs.org/)
